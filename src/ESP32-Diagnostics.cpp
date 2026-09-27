@@ -1,4 +1,4 @@
-#include "ESP32Diagnostics.h"
+#include "ESP32-Diagnostics.h"
 #include "esp_heap_caps.h"
 #include "esp_chip_info.h"
 #include <WiFi.h>
