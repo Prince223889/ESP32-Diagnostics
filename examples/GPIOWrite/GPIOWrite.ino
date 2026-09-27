@@ -1,4 +1,4 @@
-#include <ESP32Diagnostics.h>
+#include <ESP32-Diagnostics.h>
 
 static constexpr int GPIO_TO_WRITE = -1;
 

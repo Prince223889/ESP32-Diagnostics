@@ -1,5 +1,5 @@
 #include <Wire.h>
-#include <ESP32Diagnostics.h>
+#include <ESP32-Diagnostics.h>
 
 static constexpr int I2C_SDA = -1;
 static constexpr int I2C_SCL = -1;

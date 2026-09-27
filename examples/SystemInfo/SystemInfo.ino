@@ -1,4 +1,4 @@
-#include <ESP32Diagnostics.h>
+#include <ESP32-Diagnostics.h>
 
 void setup() {
   Serial.begin(115200);
